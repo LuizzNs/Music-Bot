@@ -14,11 +14,13 @@ How to install **Requirements**:
 
 If the command above **DON'T WORK**, try:
 
-> 1- pip3 install discord
+> 1- sudo pip3 install discord
 
-> 2- pip3 install youtube_dl
+> 2- sudo pip3 install youtube_dl
 
-> 3- pip3 install ffmpeg
+> 3- sudo pip3 install ffmpeg
+
+(or just pip)
 
 _____________________________________________________________________
 now, run 'sudo apt-get update && sudo apt-get upgrade'

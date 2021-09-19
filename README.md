@@ -16,9 +16,7 @@ If the command above **DON'T WORK**, try:
 
 > 2- pip3 install youtube_dl
 
-> 3- pip3 install discord.ext
-
-> 4- pip3 install ffmpeg
+> 3- pip3 install ffmpeg
 
 _____________________________________________________________________
 now, run 'sudo apt-get update && sudo apt-get upgrade'

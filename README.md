@@ -23,4 +23,4 @@ If the command above **DON'T WORK**, try:
 _____________________________________________________________________
 now, run 'sudo apt-get update && sudo apt-get upgrade'
 
-in /Music-Bot/ run: >python3 IniquusMusic.py
+in /Music-Bot/ run: ~$python3 IniquusMusic.py

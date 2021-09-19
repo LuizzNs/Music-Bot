@@ -2,6 +2,7 @@
 A Music Bot for Discord (Python)
 
 > For linux: You need a '**path**' file in **/ with ffmpeg, ffplay & ffprobe**
+
 > For Windows: You need a '**path**' file in **C:\ with ffmpeg, ffplay & ffprobe**
 _____________________________________________________________________
 

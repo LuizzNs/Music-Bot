@@ -9,7 +9,7 @@ How to install **Requirements**:
 
 > 2- Run pip3 install -r requirements.txt
 
-IF  PIP3 **DON'T WORK**, TRY:
+If the command above **DON'T WORK**, try:
 
 > 1- pip3 install discord.py
 

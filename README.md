@@ -5,4 +5,5 @@ A Discord Music Bot write in Python
 
 
 > 1- Go to file Music-Bot using terminal
+
 > 2- Run pip3 install -r requirements.txt
